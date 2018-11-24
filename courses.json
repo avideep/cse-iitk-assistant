@@ -1,0 +1,886 @@
+{
+ "course": [
+  {
+   "code": "CS201",
+   "url": "https://www.cse.iitk.ac.in/pages/CS201.html",
+   "name": "Mathematics for Computer Science - I",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS201.html"
+  },
+  {
+   "code": "CS202",
+   "url": "https://www.cse.iitk.ac.in/pages/CS202.html",
+   "name": "Mathematics for Computer Science - II",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS202.html"
+  },
+  {
+   "code": "CS203",
+   "url": "https://www.cse.iitk.ac.in/pages/CS203.html",
+   "name": "Mathematics for Computer Science - III",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS203.html"
+  },
+  {
+   "code": "CS220",
+   "url": "https://www.cse.iitk.ac.in/pages/CS220.html",
+   "name": "Computer Organisation",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS220.html"
+  },
+  {
+   "code": "CS251",
+   "url": "https://www.cse.iitk.ac.in/pages/CS251.html",
+   "name": "Computing Laboratory - I",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS251.html"
+  },
+  {
+   "code": "CS252",
+   "url": "https://www.cse.iitk.ac.in/pages/CS252.html",
+   "name": "Computing Laboratory - II",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS252.html"
+  },
+  {
+   "code": "CS300",
+   "url": "https://www.cse.iitk.ac.in/pages/CS300.html",
+   "name": "Computer Science and Engineering Communication Skills",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS300.html"
+  },
+  {
+   "code": "CS315",
+   "url": "https://www.cse.iitk.ac.in/pages/CS315.html",
+   "name": "Principles of Database Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS315.html"
+  },
+  {
+   "code": "CS330",
+   "url": "https://www.cse.iitk.ac.in/pages/CS330.html",
+   "name": "Operating Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS330.html"
+  },
+  {
+   "code": "CS335",
+   "url": "https://www.cse.iitk.ac.in/pages/CS335.html",
+   "name": "Compiler Design",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS335.html"
+  },
+  {
+   "code": "CS340",
+   "url": "https://www.cse.iitk.ac.in/pages/CS340.html",
+   "name": "Theory of Computation",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS340.html"
+  },
+  {
+   "code": "CS345",
+   "url": "https://www.cse.iitk.ac.in/pages/CS345.html",
+   "name": "Algorithms II",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS345.html"
+  },
+  {
+   "code": "CS350",
+   "url": "https://www.cse.iitk.ac.in/pages/CS350.html",
+   "name": "Principles of Programming Languages",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS350.html"
+  },
+  {
+   "code": "CS360",
+   "url": "https://www.cse.iitk.ac.in/pages/CS360.html",
+   "name": "Introduction to Computer Graphics",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS360.html"
+  },
+  {
+   "code": "CS365",
+   "url": "https://www.cse.iitk.ac.in/pages/CS365.html",
+   "name": "Artificial Intelligence",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS365.html"
+  },
+  {
+   "code": "CS397",
+   "url": "https://www.cse.iitk.ac.in/pages/CS397.html",
+   "name": "Special Topics in Computer Science",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS397.html"
+  },
+  {
+   "code": "CS422",
+   "url": "https://www.cse.iitk.ac.in/pages/CS422.html",
+   "name": "Computer Architecture",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS422.html"
+  },
+  {
+   "code": "CS425",
+   "url": "https://www.cse.iitk.ac.in/pages/CS425.html",
+   "name": "Computer Networks",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS425.html"
+  },
+  {
+   "code": "CS433",
+   "url": "https://www.cse.iitk.ac.in/pages/CS433.html",
+   "name": "Parallel Programming",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS433.html"
+  },
+  {
+   "code": "CS455",
+   "url": "https://www.cse.iitk.ac.in/pages/CS455.html",
+   "name": "Software Engineering",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS455.html"
+  },
+  {
+   "code": "CS497",
+   "url": "https://www.cse.iitk.ac.in/pages/CS497.html",
+   "name": "Special Topics in Computer Science",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS497.html"
+  },
+  {
+   "code": "CS498",
+   "url": "https://www.cse.iitk.ac.in/pages/CS498.html",
+   "name": "B Tech Project (I)",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS498.html"
+  },
+  {
+   "code": "CS499",
+   "url": "https://www.cse.iitk.ac.in/pages/CS499.html",
+   "name": "B Tech Project (II)",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS499.html"
+  },
+  {
+   "code": "CS601",
+   "url": "https://www.cse.iitk.ac.in/pages/CS601.html",
+   "name": "Mathematics for Computer Science",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS601.html"
+  },
+  {
+   "code": "CS602",
+   "url": "https://www.cse.iitk.ac.in/pages/CS602.html",
+   "name": "Design and Analysis of Algorithms",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS602.html"
+  },
+  {
+   "code": "CS603",
+   "url": "https://www.cse.iitk.ac.in/pages/CS603.html",
+   "name": "Fundamentals of Theoretical Computer Science",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS603.html"
+  },
+  {
+   "code": "CS615",
+   "url": "https://www.cse.iitk.ac.in/pages/CS615.html",
+   "name": "Skyline Queries in Database",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS615.html"
+  },
+  {
+   "code": "CS616",
+   "url": "https://www.cse.iitk.ac.in/pages/CS616.html",
+   "name": "Human Centered Computing",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS616.html"
+  },
+  {
+   "code": "CS617",
+   "url": "https://www.cse.iitk.ac.in/pages/CS617.html",
+   "name": "Database Queries",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS617.html"
+  },
+  {
+   "code": "CS618",
+   "url": "https://www.cse.iitk.ac.in/pages/CS618.html",
+   "name": "Indexing and Searching Techniques in Databases",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS618.html"
+  },
+  {
+   "code": "CS619",
+   "url": "https://www.cse.iitk.ac.in/pages/CS619.html",
+   "name": "Advances in DBMS",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS619.html"
+  },
+  {
+   "code": "CS621",
+   "url": "https://www.cse.iitk.ac.in/pages/CS621.html",
+   "name": "Topics in Contemporary Microarchitecture",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS621.html"
+  },
+  {
+   "code": "CS622",
+   "url": "https://www.cse.iitk.ac.in/pages/CS622.html",
+   "name": "Advanced Computer Architecture",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS622.html"
+  },
+  {
+   "code": "CS623",
+   "url": "https://www.cse.iitk.ac.in/pages/CS623.html",
+   "name": "VLSI Design for Parallel Architectures",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS623.html"
+  },
+  {
+   "code": "CS624",
+   "url": "https://www.cse.iitk.ac.in/pages/CS624.html",
+   "name": "Topics in Embedded Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS624.html"
+  },
+  {
+   "code": "CS625",
+   "url": "https://www.cse.iitk.ac.in/pages/CS625.html",
+   "name": "Advanced Computer Networks",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS625.html"
+  },
+  {
+   "code": "CS626",
+   "url": "https://www.cse.iitk.ac.in/pages/CS626.html",
+   "name": "Fault Tolerant Computing Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS626.html"
+  },
+  {
+   "code": "CS627",
+   "url": "https://www.cse.iitk.ac.in/pages/CS627.html",
+   "name": "E-commerce",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS627.html"
+  },
+  {
+   "code": "CS628",
+   "url": "https://www.cse.iitk.ac.in/pages/CS628.html",
+   "name": "Computer Systems Security",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS628.html"
+  },
+  {
+   "code": "CS629",
+   "url": "https://www.cse.iitk.ac.in/pages/CS629.html",
+   "name": "Parallel Execution of Programs",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS629.html"
+  },
+  {
+   "code": "CS630",
+   "url": "https://www.cse.iitk.ac.in/pages/CS630.html",
+   "name": "Advanced Operating Systems For Embedded Systems, Pervasive Computing and Internet Of Things",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS630.html"
+  },
+  {
+   "code": "CS631",
+   "url": "https://www.cse.iitk.ac.in/pages/CS631.html",
+   "name": "Cyber security of critical infrastructure",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS631.html"
+  },
+  {
+   "code": "CS632",
+   "url": "https://www.cse.iitk.ac.in/pages/CS632.html",
+   "name": "Topics in Distributed Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS632.html"
+  },
+  {
+   "code": "CS633",
+   "url": "https://www.cse.iitk.ac.in/pages/CS633.html",
+   "name": "Parallel Computing",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS633.html"
+  },
+  {
+   "code": "CS634",
+   "url": "https://www.cse.iitk.ac.in/pages/CS634.html",
+   "name": "Mobile Computing",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS634.html"
+  },
+  {
+   "code": "CS635",
+   "url": "https://www.cse.iitk.ac.in/pages/CS635.html",
+   "name": "Approximation Algorithms",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS635.html"
+  },
+  {
+   "code": "CS636",
+   "url": "https://www.cse.iitk.ac.in/pages/CS636.html",
+   "name": "Analysis of Concurrent Programs",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS636.html"
+  },
+  {
+   "code": "CS637",
+   "url": "https://www.cse.iitk.ac.in/pages/CS637.html",
+   "name": "Embedded and Cyber-Physical Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS637.html"
+  },
+  {
+   "code": "CS638",
+   "url": "https://www.cse.iitk.ac.in/pages/CS638.html",
+   "name": "Formal Methods in Robotics and Automation",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS638.html"
+  },
+  {
+   "code": "CS639",
+   "url": "https://www.cse.iitk.ac.in/pages/CS639.html",
+   "name": "Program Analysis, Verification and Testing",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS639.html"
+  },
+  {
+   "code": "CS640",
+   "url": "https://www.cse.iitk.ac.in/pages/CS640.html",
+   "name": "Computational Complexity",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS640.html"
+  },
+  {
+   "code": "CS641",
+   "url": "https://www.cse.iitk.ac.in/pages/CS641.html",
+   "name": "Modern Cryptology",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS641.html"
+  },
+  {
+   "code": "CS642",
+   "url": "https://www.cse.iitk.ac.in/pages/CS642.html",
+   "name": "Circuit Complexity Theory",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS642.html"
+  },
+  {
+   "code": "CS643",
+   "url": "https://www.cse.iitk.ac.in/pages/CS643.html",
+   "name": "Abstract State Machines",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS643.html"
+  },
+  {
+   "code": "CS644",
+   "url": "https://www.cse.iitk.ac.in/pages/CS644.html",
+   "name": "Finite Automata on Infinite Inputs",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS644.html"
+  },
+  {
+   "code": "CS645",
+   "url": "https://www.cse.iitk.ac.in/pages/CS645.html",
+   "name": "Topics in Design and Analysis of Algorithms",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS645.html"
+  },
+  {
+   "code": "CS646",
+   "url": "https://www.cse.iitk.ac.in/pages/CS646.html",
+   "name": "Parallel Algorithms",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS646.html"
+  },
+  {
+   "code": "CS647",
+   "url": "https://www.cse.iitk.ac.in/pages/CS647.html",
+   "name": "Advanced Topics in Algorithms and Data Structures",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS647.html"
+  },
+  {
+   "code": "CS648",
+   "url": "https://www.cse.iitk.ac.in/pages/CS648.html",
+   "name": "Randomized Algorithms",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS648.html"
+  },
+  {
+   "code": "CS649",
+   "url": "https://www.cse.iitk.ac.in/pages/CS649.html",
+   "name": "Logic in Computer Science",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS649.html"
+  },
+  {
+   "code": "CS650",
+   "url": "https://www.cse.iitk.ac.in/pages/CS650.html",
+   "name": "Topics in Lambda Calculus",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS650.html"
+  },
+  {
+   "code": "CS651",
+   "url": "https://www.cse.iitk.ac.in/pages/CS651.html",
+   "name": "Concurrent Data Structures and Algorithms",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS651.html"
+  },
+  {
+   "code": "CS652",
+   "url": "https://www.cse.iitk.ac.in/pages/CS652.html",
+   "name": "Computer Aided Verification",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS652.html"
+  },
+  {
+   "code": "CS653",
+   "url": "https://www.cse.iitk.ac.in/pages/CS653.html",
+   "name": "Functional Programming",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS653.html"
+  },
+  {
+   "code": "CS654",
+   "url": "https://www.cse.iitk.ac.in/pages/CS654.html",
+   "name": "Software Architecture",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS654.html"
+  },
+  {
+   "code": "CS655",
+   "url": "https://www.cse.iitk.ac.in/pages/CS655.html",
+   "name": "Topics in Linear Programming",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS655.html"
+  },
+  {
+   "code": "CS656",
+   "url": "https://www.cse.iitk.ac.in/pages/CS656.html",
+   "name": "Algorithmic Game Theory",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS656.html"
+  },
+  {
+   "code": "CS657",
+   "url": "https://www.cse.iitk.ac.in/pages/CS657.html",
+   "name": "Information Retrieval",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS657.html"
+  },
+  {
+   "code": "CS660",
+   "url": "https://www.cse.iitk.ac.in/pages/CS660.html",
+   "name": "Fundamentals of Interactive Computer Graphics",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS660.html"
+  },
+  {
+   "code": "CS663",
+   "url": "https://www.cse.iitk.ac.in/pages/CS663.html",
+   "name": "Computational Geometry",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS663.html"
+  },
+  {
+   "code": "CS664",
+   "url": "https://www.cse.iitk.ac.in/pages/CS664.html",
+   "name": "IoT System Design",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS664.html"
+  },
+  {
+   "code": "CS665",
+   "url": "https://www.cse.iitk.ac.in/pages/CS665.html",
+   "name": "Secure Memory Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS665.html"
+  },
+  {
+   "code": "CS671",
+   "url": "https://www.cse.iitk.ac.in/pages/CS671.html",
+   "name": "Introduction to Natural Language Processing",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS671.html"
+  },
+  {
+   "code": "CS672",
+   "url": "https://www.cse.iitk.ac.in/pages/CS672.html",
+   "name": "Natural Language Processing Semantics",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS672.html"
+  },
+  {
+   "code": "CS673",
+   "url": "https://www.cse.iitk.ac.in/pages/CS673.html",
+   "name": "Machine Translation",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS673.html"
+  },
+  {
+   "code": "CS674",
+   "url": "https://www.cse.iitk.ac.in/pages/CS674.html",
+   "name": "Knowledge Discovery",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS674.html"
+  },
+  {
+   "code": "CS676",
+   "url": "https://www.cse.iitk.ac.in/pages/CS676.html",
+   "name": "Computer Vision and Image Processing",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS676.html"
+  },
+  {
+   "code": "CS677",
+   "url": "https://www.cse.iitk.ac.in/pages/CS677.html",
+   "name": "Data and Information Fusion",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS677.html"
+  },
+  {
+   "code": "CS678",
+   "url": "https://www.cse.iitk.ac.in/pages/CS678.html",
+   "name": "Learning with Kernels",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS678.html"
+  },
+  {
+   "code": "CS680",
+   "url": "https://www.cse.iitk.ac.in/pages/CS680.html",
+   "name": "Category Theory and Applications in Computing",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS680.html"
+  },
+  {
+   "code": "CS681",
+   "url": "https://www.cse.iitk.ac.in/pages/CS681.html",
+   "name": "Computational Algebra and Number Theory",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS681.html"
+  },
+  {
+   "code": "CS682",
+   "url": "https://www.cse.iitk.ac.in/pages/CS682.html",
+   "name": "Quantum Computing",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS682.html"
+  },
+  {
+   "code": "CS684",
+   "url": "https://www.cse.iitk.ac.in/pages/CS684.html",
+   "name": "Introduction to Algorithms and Logics in Game Theory",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS684.html"
+  },
+  {
+   "code": "CS685",
+   "url": "https://www.cse.iitk.ac.in/pages/CS685.html",
+   "name": "Data Mining",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS685.html"
+  },
+  {
+   "code": "CS686",
+   "url": "https://www.cse.iitk.ac.in/pages/CS686.html",
+   "name": "Data Driven Program Analysis",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS686.html"
+  },
+  {
+   "code": "CS687",
+   "url": "https://www.cse.iitk.ac.in/pages/CS687.html",
+   "name": "Algorithmic Information Theory",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS687.html"
+  },
+  {
+   "code": "CS688",
+   "url": "https://www.cse.iitk.ac.in/pages/CS688.html",
+   "name": "Computational Arithmetic-Geometry and Applications",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS688.html"
+  },
+  {
+   "code": "CS697",
+   "url": "https://www.cse.iitk.ac.in/pages/CS697.html",
+   "name": "Special Topics in Computer Science",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS697.html"
+  },
+  {
+   "code": "CS698A",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698A.html",
+   "name": "Selected Areas of Mechanism Design",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698A.html"
+  },
+  {
+   "code": "CS698B",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698B.html",
+   "name": "Linear algebraic tools for TCS",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698B.html"
+  },
+  {
+   "code": "CS698C",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698C.html",
+   "name": "Sketching and Sampling For Big Data Analysis",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698C.html"
+  },
+  {
+   "code": "CS698D",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698D.html",
+   "name": "Topics in Data Compression",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698D.html"
+  },
+  {
+   "code": "CS698E",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698E.html",
+   "name": "Topics in Computer Architecture and Operating Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698E.html"
+  },
+  {
+   "code": "CS698F",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698F.html",
+   "name": "Advanced Data Management",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698F.html"
+  },
+  {
+   "code": "CS698H",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698H.html",
+   "name": "Topics in Homotopy Type Theory",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698H.html"
+  },
+  {
+   "code": "CS698J",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698J.html",
+   "name": "Introduction to Constructive Types Theory and its Applications",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698J.html"
+  },
+  {
+   "code": "CS698K",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698K.html",
+   "name": "Designing Verifiably Secure Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698K.html"
+  },
+  {
+   "code": "CS698N",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698N.html",
+   "name": "Recent Advances in Computer Vision",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698N.html"
+  },
+  {
+   "code": "CS698P",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698P.html",
+   "name": "Applications of Markov Chains in Combinatorial Optimization and in Evolutionary Dynamics",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698P.html"
+  },
+  {
+   "code": "CS698W",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698W.html",
+   "name": "Topics in Game Theory and Collective Choice",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698W.html"
+  },
+  {
+   "code": "CS698X",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698X.html",
+   "name": "Topics in Probabilistic Modeling and Inference",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698X.html"
+  },
+  {
+   "code": "CS698Y",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698Y.html",
+   "name": "Modern Memory Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698Y.html"
+  },
+  {
+   "code": "CS698Z",
+   "url": "https://www.cse.iitk.ac.in/pages/CS698Z.html",
+   "name": "Linux Kernel Programming",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS698Z.html"
+  },
+  {
+   "code": "CS699",
+   "url": "https://www.cse.iitk.ac.in/pages/CS699.html",
+   "name": "M.Tech. Thesis",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS699.html"
+  },
+  {
+   "code": "CS711",
+   "url": "https://www.cse.iitk.ac.in/pages/CS711.html",
+   "name": "Introduction to Game Theory and Mechanism Design",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS711.html"
+  },
+  {
+   "code": "CS712",
+   "url": "https://www.cse.iitk.ac.in/pages/CS712.html",
+   "name": "Selected Areas of Mechanism Design",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS712.html"
+  },
+  {
+   "code": "CS718",
+   "url": "https://www.cse.iitk.ac.in/pages/CS718.html",
+   "name": "Sublinear Algorithms for Processing Massive Data Sets",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS718.html"
+  },
+  {
+   "code": "CS719",
+   "url": "https://www.cse.iitk.ac.in/pages/CS719.html",
+   "name": "Data Streaming Algorithms and Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS719.html"
+  },
+  {
+   "code": "CS720",
+   "url": "https://www.cse.iitk.ac.in/pages/CS720.html",
+   "name": "VLSI Testing and Fault-Tolerance",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS720.html"
+  },
+  {
+   "code": "CS725",
+   "url": "https://www.cse.iitk.ac.in/pages/CS725.html",
+   "name": "Topics in Networking",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS725.html"
+  },
+  {
+   "code": "CS726",
+   "url": "https://www.cse.iitk.ac.in/pages/CS726.html",
+   "name": "Topics in Multimedia",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS726.html"
+  },
+  {
+   "code": "CS727",
+   "url": "https://www.cse.iitk.ac.in/pages/CS727.html",
+   "name": "Topics in Internet Technologies",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS727.html"
+  },
+  {
+   "code": "CS728",
+   "url": "https://www.cse.iitk.ac.in/pages/CS728.html",
+   "name": "Topics in Grid Computing",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS728.html"
+  },
+  {
+   "code": "CS730",
+   "url": "https://www.cse.iitk.ac.in/pages/CS730.html",
+   "name": "Topics in Operating Systems",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS730.html"
+  },
+  {
+   "code": "CS731",
+   "url": "https://www.cse.iitk.ac.in/pages/CS731.html",
+   "name": "Blockchain Technology and Application",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS731.html"
+  },
+  {
+   "code": "CS738",
+   "url": "https://www.cse.iitk.ac.in/pages/CS738.html",
+   "name": "Advanced Compiler Optimizations",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS738.html"
+  },
+  {
+   "code": "CS740",
+   "url": "https://www.cse.iitk.ac.in/pages/CS740.html",
+   "name": "Topics in Logic and Computation",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS740.html"
+  },
+  {
+   "code": "CS741",
+   "url": "https://www.cse.iitk.ac.in/pages/CS741.html",
+   "name": "Structural Complexity",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS741.html"
+  },
+  {
+   "code": "CS742",
+   "url": "https://www.cse.iitk.ac.in/pages/CS742.html",
+   "name": "Parallel Complexity and Sub-Logarithmic Time Algorithms",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS742.html"
+  },
+  {
+   "code": "CS743",
+   "url": "https://www.cse.iitk.ac.in/pages/CS743.html",
+   "name": "Advanced Graph Algorithms",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS743.html"
+  },
+  {
+   "code": "CS744",
+   "url": "https://www.cse.iitk.ac.in/pages/CS744.html",
+   "name": "Pseudo-Random Generators",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS744.html"
+  },
+  {
+   "code": "CS745",
+   "url": "https://www.cse.iitk.ac.in/pages/CS745.html",
+   "name": "Small Space Bounded Computations",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS745.html"
+  },
+  {
+   "code": "CS746",
+   "url": "https://www.cse.iitk.ac.in/pages/CS746.html",
+   "name": "Riemann Hypothesis and Its Applications",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS746.html"
+  },
+  {
+   "code": "CS747",
+   "url": "https://www.cse.iitk.ac.in/pages/CS747.html",
+   "name": "Randomized Methods in Computational Complexity",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS747.html"
+  },
+  {
+   "code": "CS748",
+   "url": "https://www.cse.iitk.ac.in/pages/CS748.html",
+   "name": "Arithmetic Circuit Complexity",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS748.html"
+  },
+  {
+   "code": "CS749",
+   "url": "https://www.cse.iitk.ac.in/pages/CS749.html",
+   "name": "Elliptic Curves and Their Applications",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS749.html"
+  },
+  {
+   "code": "CS750",
+   "url": "https://www.cse.iitk.ac.in/pages/CS750.html",
+   "name": "Programs, Proofs and Types",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS750.html"
+  },
+  {
+   "code": "CS755",
+   "url": "https://www.cse.iitk.ac.in/pages/CS755.html",
+   "name": "Topics in Software Engineering",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS755.html"
+  },
+  {
+   "code": "CS771",
+   "url": "https://www.cse.iitk.ac.in/pages/CS771.html",
+   "name": "Introduction to Machine Learning",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS771.html"
+  },
+  {
+   "code": "CS772",
+   "url": "https://www.cse.iitk.ac.in/pages/CS772.html",
+   "name": "Probabilistic Machine Learning",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS772.html"
+  },
+  {
+   "code": "CS773",
+   "url": "https://www.cse.iitk.ac.in/pages/CS773.html",
+   "name": "Online Learning and Optimization",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS773.html"
+  },
+  {
+   "code": "CS774",
+   "url": "https://www.cse.iitk.ac.in/pages/CS774.html",
+   "name": "Optimization Techniques",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS774.html"
+  },
+  {
+   "code": "CS775",
+   "url": "https://www.cse.iitk.ac.in/pages/CS775.html",
+   "name": "Topics in Probabilistic Modelling and Inference",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS775.html"
+  },
+  {
+   "code": "CS776",
+   "url": "https://www.cse.iitk.ac.in/pages/CS776.html",
+   "name": "Deep Learning for Computer Vision",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS776.html"
+  },
+  {
+   "code": "CS777",
+   "url": "https://www.cse.iitk.ac.in/pages/CS777.html",
+   "name": "Topics in Learning Theory",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS777.html"
+  },
+  {
+   "code": "CS781",
+   "url": "https://www.cse.iitk.ac.in/pages/CS781.html",
+   "name": "Cognition: Memory",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS781.html"
+  },
+  {
+   "code": "CS782",
+   "url": "https://www.cse.iitk.ac.in/pages/CS782.html",
+   "name": "Cognitive Semantics",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS782.html"
+  },
+  {
+   "code": "CS783",
+   "url": "https://www.cse.iitk.ac.in/pages/CS783.html",
+   "name": "Visual Recognition",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS783.html"
+  },
+  {
+   "code": "CS784",
+   "url": "https://www.cse.iitk.ac.in/pages/CS784.html",
+   "name": "Language Acquisition",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS784.html"
+  },
+  {
+   "code": "CS785",
+   "url": "https://www.cse.iitk.ac.in/pages/CS785.html",
+   "name": "Multiagent Systems: Games, Algorithms, Evolution",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS785.html"
+  },
+  {
+   "code": "CS786",
+   "url": "https://www.cse.iitk.ac.in/pages/CS786.html",
+   "name": "Computational Cognitive Science",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS786.html"
+  },
+  {
+   "code": "CS789",
+   "url": "https://www.cse.iitk.ac.in/pages/CS789.html",
+   "name": "Special Topics in Language Acquisition and Origins",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS789.html"
+  },
+  {
+   "code": "CS797",
+   "url": "https://www.cse.iitk.ac.in/pages/CS797.html",
+   "name": "Special Advance Topics in Computer Science",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS797.html"
+  },
+  {
+   "code": "CS799",
+   "url": "https://www.cse.iitk.ac.in/pages/CS799.html",
+   "name": "PhD Thesis",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS799.html"
+  },
+  {
+   "code": "CS899",
+   "url": "https://www.cse.iitk.ac.in/pages/CS899.html",
+   "name": "M.S. Thesis",
+   "name_url": "https://www.cse.iitk.ac.in/pages/CS899.html"
+  },
+  {
+   "code": "ESC101",
+   "url": "https://www.cse.iitk.ac.in/pages/ESC101.html",
+   "name": "Introduction to Computing",
+   "name_url": "https://www.cse.iitk.ac.in/pages/ESC101.html"
+  },
+  {
+   "code": "ESO207",
+   "url": "https://www.cse.iitk.ac.in/pages/ESO207.html",
+   "name": "Data Structures and Algorithms",
+   "name_url": "https://www.cse.iitk.ac.in/pages/ESO207.html"
+  }
+ ]
+}

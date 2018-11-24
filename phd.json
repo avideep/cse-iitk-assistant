@@ -1,0 +1,515 @@
+{
+ "phd": [
+  {
+   "name": [
+    {
+     "name": "Aakanksha Verma",
+     "url": "https://www.cse.iitk.ac.in/users/aakansh/",
+     "advisor": "",
+     "research_interest": ""
+    },
+    {
+     "name": "Amit Chandak",
+     "url": "https://www.cse.iitk.ac.in/users/amitch/",
+     "advisor": "",
+     "research_interest": ""
+     
+    },
+    {
+     "name": "Arun Kp",
+     "url": "https://www.cse.iitk.ac.in/users/kparun/",
+     "advisor": "Supervisor: Biswabandan Panda, Debadatta Mishra",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/kparun/",
+     "research_interest": "Research Interest: Computer Architecture",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/kparun/"
+    },
+    {
+     "name": "Arvapalli Sai Susmitha",
+     "url": "https://www.cse.iitk.ac.in/users/susmitha/",
+     "advisor": "",
+     "research_interest": "Research Interest: Machine Learning, NLP,Computer Vision, Deep Learning",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/susmitha/"
+    },
+    {
+     "name": "Avideep Mukherjee",
+     "url": "https://www.cse.iitk.ac.in/users/avideep/",
+     "research_interest": "Research Interest: Machine Learning, Deep Learning",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/avideep/"
+    },
+    {
+     "name": "Gourav Takhar",
+     "url": "https://www.cse.iitk.ac.in/users/tgourav/",
+     "advisor": "",
+     "research_interest": ""
+    },
+    {
+     "name": "Mohammed Rizwan Rawani",
+     "url": "https://www.cse.iitk.ac.in/users/mrrawani/",
+     "research_interest": "Research Interest: Theoretical Computer Science, Mathematical Logic",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/mrrawani/"
+    },
+    {
+     "name": "Prafulla Saxena",
+     "url": "https://www.cse.iitk.ac.in/users/prafulla/",
+     "advisor": "",
+     "research_interest": ""
+    },
+    {
+     "name": "Prateek Dwivedi",
+     "url": "https://www.cse.iitk.ac.in/users/pdwivedi/",
+     "advisor": "",
+     "research_interest": ""
+    },
+    {
+     "name": "Rahul Sharma",
+     "url": "https://www.cse.iitk.ac.in/users/rsharma/",
+     "advisor": "",
+     "research_interest": ""
+    },
+    {
+     "name": "Soumya Banerjee",
+     "url": "https://www.cse.iitk.ac.in/users/soumyab/",
+     "advisor": "",
+     "research_interest": ""
+    },
+    {
+     "name": "Subin Pulari",
+     "url": "https://www.cse.iitk.ac.in/users/subinp/",
+     "advisor": "Supervisor: Satyadev Nandakumar",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/subinp/",
+     "research_interest": ""
+    },
+    {
+     "name": "Vikas Maurya",
+     "url": "https://www.cse.iitk.ac.in/users/vikasmr/",
+     "advisor": "",
+     "research_interest": ""
+    },
+    {
+     "name": "Waseem Akram",
+     "url": "https://www.cse.iitk.ac.in/users/akram/",
+     "advisor": "",
+     "research_interest": "Research Interest: Algorithms, Logic, and Algebra",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/akram/"
+    }
+   ],
+   "url": "https://cse.iitk.ac.in/pages/PhD2018_Person.html"
+  },
+  {
+   "name": [
+    {
+     "name": "Ashish Dwivedi",
+     "url": "https://www.cse.iitk.ac.in/users/ashish/",
+     "advisor": "Supervisor: Nitin Saxena, Rajat Mittal",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/ashish/",
+     "research_interest": "Research Interest: Computational aspect of Number Theory and Algebra, Computational Complexity Theory, Computational Algebraic Geometry",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/ashish/"
+    },
+    {
+     "name": "Dhanajit Brahma",
+     "url": "https://www.cse.iitk.ac.in/users/dhanajit/",
+     "advisor": "Supervisor: Piyush Rai",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/dhanajit/",
+     "research_interest": "Research Interest: Machine Learning, Probabilistic Machine Learning, Deep Learning, Computational Biology",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/dhanajit/"
+    },
+    {
+     "name": "Garima Shakya",
+     "url": "https://www.cse.iitk.ac.in/users/garima/",
+     "advisor": "Supervisor: Swaprava Nath",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/garima/",
+     "research_interest": "Research Interest: Game theory and Mechanism Design",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/garima/"
+    },
+    {
+     "name": "Mahesh Sreekumar Rajasree",
+     "url": "https://www.cse.iitk.ac.in/users/mahesr/",
+     "advisor": "Supervisor: Manindra Agrawal",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/mahesr/",
+     "research_interest": "Research Interest: CRYPTOGRAPHY",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/mahesr/"
+    },
+    {
+     "name": "Mosab Shaheen",
+     "url": "https://www.cse.iitk.ac.in/users/mosab/",
+     "advisor": "Supervisor: Arnab Bhattacharya",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/mosab/",
+     "research_interest": "Research Interest: Machine Learning, Networks, Security",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/mosab/"
+    },
+    {
+     "name": "Neeraj Matiyali",
+     "url": "https://www.cse.iitk.ac.in/users/neermat/",
+     "advisor": "Supervisor: Manindra Agrawal",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/neermat/",
+     "research_interest": "Research Interest: Computer Vision, Machine Learning",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/neermat/"
+    },
+    {
+     "name": "Pranav Bisht",
+     "url": "https://www.cse.iitk.ac.in/users/pbisht/",
+     "advisor": "Supervisor: Nitin Saxena",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/pbisht/",
+     "research_interest": "Research Interest: Algebraic Complexity Theory",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/pbisht/"
+    },
+    {
+     "name": "Prantik Chatterjee",
+     "url": "https://www.cse.iitk.ac.in/users/prantik/",
+     "advisor": "Supervisor: Subhajit Roy",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/prantik/",
+     "research_interest": "Research Interest: Program Analysis, Machine Learning, Bioinformatics.",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/prantik/"
+    },
+    {
+     "name": "Priyanka Golia",
+     "url": "https://www.cse.iitk.ac.in/users/pgolia/",
+     "advisor": "Supervisor: Subhajit Roy",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/pgolia/",
+     "research_interest": "Research Interest: Knowledge compilation and formal verification",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/pgolia/"
+    },
+    {
+     "name": "Samik Some",
+     "url": "https://www.cse.iitk.ac.in/users/samik/",
+     "advisor": "Supervisor: Vinay P. Namboodiri",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/samik/",
+     "research_interest": "Research Interest: Computer Vision",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/samik/"
+    },
+    {
+     "name": "Shubham Kumar Nigam",
+     "url": "https://www.cse.iitk.ac.in/users/sknigam/"
+    }
+   ],
+   "url": "https://cse.iitk.ac.in/pages/PhD2017_Person.html"
+  },
+  {
+   "name": [
+    {
+     "name": "Bhaskar Pratim Mukhoty",
+     "url": "https://www.cse.iitk.ac.in/users/bhaskarm/",
+     "advisor": "Supervisor: Purushottam Kar",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/bhaskarm/",
+     "research_interest": "Research Interest: Machine Learning",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/bhaskarm/"
+    },
+    {
+     "name": "Munender Kumar",
+     "url": "https://www.cse.iitk.ac.in/users/munenderv/",
+     "advisor": "Supervisor: Vinay P. Namboodiri",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/munenderv/",
+     "research_interest": "Research Interest: Machine Learning, Computer Vision, Active learning and Deep learning",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/munenderv/"
+    },
+    {
+     "name": "Pratik Mazumder",
+     "url": "https://www.cse.iitk.ac.in/users/pratikm/",
+     "advisor": "Supervisor: Vinay P. Namboodiri, Piyush Rai",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/pratikm/",
+     "research_interest": "Research Interest: Machine Learning, Computer Vision.",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/pratikm/"
+    },
+    {
+     "name": "Pravendra Singh",
+     "url": "https://www.cse.iitk.ac.in/users/psingh/",
+     "advisor": "Supervisor: Vinay P. Namboodiri",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/psingh/",
+     "research_interest": "Research Interest: Computer Vision, Machine Learning",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/psingh/"
+    },
+    {
+     "name": "Prem Raj",
+     "url": "https://www.cse.iitk.ac.in/users/praj/",
+     "advisor": "Supervisor: Vinay P. Namboodiri",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/praj/",
+     "research_interest": "Research Interest: Machine Learning Computer Vision",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/praj/"
+    },
+    {
+     "name": "Rajendra Kumar",
+     "url": "https://www.cse.iitk.ac.in/users/rajendrak/",
+     "advisor": "Supervisor: Manindra Agrawal",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/rajendrak/",
+     "research_interest": "Research Interest: Cryptography",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/rajendrak/"
+    },
+    {
+     "name": "Ras Dwivedi",
+     "url": "https://www.cse.iitk.ac.in/users/dwivedi/",
+     "advisor": "Supervisor: Manindra Agrawal, Sandeep Kumar Shukla",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/dwivedi/",
+     "research_interest": "Research Interest: Cryptography, Blockchains, crypto-currency, smart-contracts, Machine Learning",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/dwivedi/"
+    },
+    {
+     "name": "Ratijit Mitra",
+     "url": "https://www.cse.iitk.ac.in/users/ratijit/",
+     "advisor": "Supervisor: Indranil Saha",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/ratijit/",
+     "research_interest": "Research Interest: Computer Networks",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/ratijit/"
+    },
+    {
+     "name": "Shivam Bansal",
+     "url": "https://www.cse.iitk.ac.in/users/sbansal/",
+     "advisor": "Supervisor: Piyush Rai",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/sbansal/",
+     "research_interest": "Research Interest: Machine Learning",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/sbansal/"
+    },
+    {
+     "name": "Siddharth Srivastava",
+     "url": "https://www.cse.iitk.ac.in/users/sidsri/",
+     "advisor": "Supervisor: T. V. Prabhakar",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/sidsri/",
+     "research_interest": "Research Interest: Switching Theory Logic Design.",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/sidsri/"
+    },
+    {
+     "name": "Utsav Singh",
+     "url": "https://www.cse.iitk.ac.in/users/utsavz/",
+     "advisor": "Supervisor: Vinay P. Namboodiri",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/utsavz/",
+     "research_interest": "Research Interest: Machine Learning, Computer Vision, Reinforcement Learning",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/utsavz/"
+    }
+   ],
+   "url": "https://cse.iitk.ac.in/pages/PhD2016_Person.html"
+  },
+  {
+   "name": [
+    {
+     "name": "Abhay Kumar",
+     "url": "https://www.cse.iitk.ac.in/users/abhkum/",
+     "advisor": "Supervisor: Sandeep Kumar Shukla",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/abhkum/",
+     "research_interest": "Research Interest: Computer Network, Cyber Security, Software Defined Network",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/abhkum/"
+    },
+    {
+     "name": "Chetan Gupta",
+     "url": "https://www.cse.iitk.ac.in/users/gchetan/",
+     "advisor": "Supervisor: Raghunath Tewari",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/gchetan/",
+     "research_interest": "Research Interest: Computational Complexity",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/gchetan/"
+    },
+    {
+     "name": "Debojyoti Dey",
+     "url": "https://www.cse.iitk.ac.in/users/debojyot/",
+     "advisor": "Supervisor: Purushottam Kar",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/debojyot/",
+     "research_interest": "Research Interest: Machine Learning, Optimization, Markov Chain, Game Theory, Data Streaming, Dynamical System",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/debojyot/"
+    },
+    {
+     "name": "Gaurav Kumar",
+     "url": "https://www.cse.iitk.ac.in/users/grvkumar/",
+     "advisor": "Supervisor: Yatindra Nath Singh",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/grvkumar/",
+     "research_interest": "Research Interest: Software security, Software exploitation",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/grvkumar/"
+    },
+    {
+     "name": "Gufran Siddiqui",
+     "url": "https://www.cse.iitk.ac.in/users/gufran/",
+     "advisor": "Supervisor: Sandeep Kumar Shukla",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/gufran/",
+     "research_interest": "Research Interest: Cyber Security",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/gufran/"
+    },
+    {
+     "name": "Kranti Kumar Parida",
+     "url": "https://www.cse.iitk.ac.in/users/kranti/",
+     "advisor": "Supervisor: Manindra Agrawal",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/kranti/",
+     "research_interest": "Research Interest: Computer Vision, Multi-modal Processing",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/kranti/"
+    },
+    {
+     "name": "Mohd Salman Khan",
+     "url": "https://www.cse.iitk.ac.in/users/mohdsalman/",
+     "advisor": "Supervisor: Shashank K. Mehta",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/mohdsalman/",
+     "research_interest": "Research Interest: Side-channel attacks in memory systems",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/mohdsalman/"
+    },
+    {
+     "name": "Nimisha Agarwal",
+     "url": "https://www.cse.iitk.ac.in/users/nimisha/",
+     "advisor": "Supervisor: Amey Karkare",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/nimisha/",
+     "research_interest": "Research Interest: Programming Languages, Program Verification",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/nimisha/"
+    },
+    {
+     "name": "Prateek Vishnoi",
+     "url": "https://www.cse.iitk.ac.in/users/pratvish/",
+     "advisor": "Supervisor: Satyadev Nandakumar",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/pratvish/",
+     "research_interest": "Research Interest: Theoretical computer science",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/pratvish/"
+    },
+    {
+     "name": "Rahul Jain",
+     "url": "https://www.cse.iitk.ac.in/users/jain/",
+     "advisor": "Supervisor: Raghunath Tewari",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/jain/",
+     "research_interest": "Research Interest: Computational complexity theory",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/jain/"
+    },
+    {
+     "name": "Saurabh Kumar",
+     "url": "https://www.cse.iitk.ac.in/users/skmtr/",
+     "advisor": "Supervisor: Sandeep Kumar Shukla, Biswabandan Panda",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/skmtr/",
+     "research_interest": "Research Interest: Cyber Security, Android Security, Cyber Forensic, Cyber Crime",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/skmtr/"
+    },
+    {
+     "name": "Tanmoy Kundu",
+     "url": "https://www.cse.iitk.ac.in/users/tanmoy/",
+     "advisor": "Supervisor: Indranil Saha",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/tanmoy/",
+     "research_interest": "Research Interest: Formal Verification, Cyber-Physical Systems",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/tanmoy/"
+    },
+    {
+     "name": "Vimal Raj Sharma",
+     "url": "https://www.cse.iitk.ac.in/users/vimalraj/",
+     "advisor": "Supervisor: Raghunath Tewari",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/vimalraj/",
+     "research_interest": "Research Interest: Complexity Theory",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/vimalraj/"
+    },
+    {
+     "name": "Vinay Kumar Verma",
+     "url": "https://www.cse.iitk.ac.in/users/vkverma/",
+     "advisor": "Supervisor: Piyush Rai",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/vkverma/",
+     "research_interest": "Research Interest: Probabilistic Machine Learning, Deep Probabilistic Model, Computer Vision, Zero-Shot Learning",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/vkverma/"
+    }
+   ],
+   "url": "https://cse.iitk.ac.in/pages/PhD2015_Person.html"
+  },
+  {
+   "name": [
+    {
+     "name": "Abhishek Dang",
+     "url": "https://www.cse.iitk.ac.in/users/ahdang/",
+     "advisor": "Supervisor: Piyush P Kurur, Sunil Simon",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/ahdang/",
+     "research_interest": "Research Interest: Type Theory, Proof assistants, Verification",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/ahdang/"
+    },
+    {
+     "name": "Amit Kumar Sinhababu",
+     "url": "https://www.cse.iitk.ac.in/users/amitks/",
+     "advisor": "Supervisor: Nitin Saxena",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/amitks/",
+     "research_interest": "Research Interest: Computational number theory and algebra, algebraic complexity theory, Computational complexity",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/amitks/"
+    },
+    {
+     "name": "Awanish Pandey",
+     "url": "https://www.cse.iitk.ac.in/users/awpandey/",
+     "advisor": "Supervisor: Subhajit Roy",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/awpandey/",
+     "research_interest": "Research Interest: Program Verification, testing, analysis",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/awpandey/"
+    },
+    {
+     "name": "Hrishikesh Terdalkar",
+     "url": "https://www.cse.iitk.ac.in/users/hrishirt/",
+     "advisor": "Supervisor: Arnab Bhattacharya",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/hrishirt/",
+     "research_interest": "Research Interest: Graph Mining, Data Mining",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/hrishirt/"
+    },
+    {
+     "name": "Shubhangi Agarwal",
+     "url": "https://www.cse.iitk.ac.in/users/sagarwal/",
+     "advisor": "Supervisor: Arnab Bhattacharya",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/sagarwal/",
+     "research_interest": "Research Interest: Graph Mining, Data Mining",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/sagarwal/"
+    },
+    {
+     "name": "Sumanta Ghosh",
+     "url": "https://www.cse.iitk.ac.in/users/sumghosh/",
+     "advisor": "Supervisor: Nitin Saxena",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/sumghosh/",
+     "research_interest": "Research Interest: Algebraic Complexity Theory",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/sumghosh/"
+    }
+   ],
+   "url": "https://cse.iitk.ac.in/pages/PhD2014_Person.html"
+  },
+  {
+   "name": [
+    {
+     "name": "Adarsh J",
+     "url": "https://www.cse.iitk.ac.in/users/adarshaj/",
+     "advisor": "Supervisor: Manindra Agrawal",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/adarshaj/",
+     "research_interest": "Research Interest: Web Security",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/adarshaj/"
+    },
+    {
+     "name": "Garima Gaur",
+     "url": "https://www.cse.iitk.ac.in/users/garimag/",
+     "advisor": "Supervisor: Arnab Bhattacharya",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/garimag/",
+     "research_interest": "Research Interest: Information Retrieval, Provenance Management, Knowledge Graph",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/garimag/"
+    },
+    {
+     "name": "Keerti Choudhary",
+     "url": "https://www.cse.iitk.ac.in/users/keerti/",
+     "advisor": "Supervisor: Surender Baswana",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/keerti/"
+    },
+    {
+     "name": "Saurabh Srivastava",
+     "url": "https://www.cse.iitk.ac.in/users/ssri/",
+     "advisor": "Supervisor: T. V. Prabhakar",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/ssri/",
+     "research_interest": "Research Interest: Software Architecture",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/ssri/"
+    },
+    {
+     "name": "Umair Z Ahmed",
+     "url": "https://www.cse.iitk.ac.in/users/umair/",
+     "advisor": "Supervisor: Amey Karkare",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/umair/",
+     "research_interest": "Research Interest: Intelligent Tutoring Systems, Machine Learning, Artificial Intelligence",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/umair/"
+    }
+   ],
+   "url": "https://cse.iitk.ac.in/pages/PhD2013_Person.html"
+  },
+  {
+   "name": [
+    {
+     "name": "Pawan Kumar",
+     "url": "https://www.cse.iitk.ac.in/users/kpawan/",
+     "advisor": "Supervisor: Harish Karnick",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/kpawan/",
+     "research_interest": "Research Interest: Machine Learning, Deep Learning, Natural Language Processing, Machine Translation",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/kpawan/"
+    },
+    {
+     "name": "Shubham Sahai Srivastava",
+     "url": "https://www.cse.iitk.ac.in/users/ssahai/",
+     "advisor": "Supervisor: Sandeep Kumar Shukla, Sunil Simon",
+     "advisor_url": "https://www.cse.iitk.ac.in/users/ssahai/",
+     "research_interest": "Research Interest: Formal Verification of Security Protocols, Blockchain",
+     "research_interest_url": "https://www.cse.iitk.ac.in/users/ssahai/"
+    }
+   ],
+   "url": "https://cse.iitk.ac.in/pages/PhD2012_Person.html"
+  }
+ ]
+}

@@ -1,0 +1,421 @@
+{
+ "area": [
+  {
+   "name": "Algebra",
+   "faculty": "Nitin Saxena"
+  },
+  {
+   "name": "Algebraic Geometry",
+   "faculty": "Nitin Saxena"
+  },
+  {
+   "name": "Algebraic Methods in Computational Complexity"
+  },
+  {
+   "name": "Algorithmic Information Theory",
+   "faculty": "Satyadev Nandakumar"
+  },
+  {
+   "name": "Algorithms",
+   "faculty": "Sumit Ganguly, Surender Baswana, Shashank K. Mehta, , Phalguni Gupta, Manindra Agrawal, Sanjeev Saxena, Nitin Saxena, Ratan K Ghosh"
+  },
+  {
+   "name": "Application of formal methods to embedded and cyberphysical systems",
+   "faculty": "Sandeep Kumar Shukla, Indranil Saha"
+  },
+  {
+   "name": "Approximation Algorithms",
+   "faculty": "Shashank K. Mehta"
+  },
+  {
+   "name": "Artificial Intelligence",
+   "faculty": "Swaprava Nath, ,"
+  },
+  {
+   "name": "Automated & Commonsense Reasoning"
+  },
+  {
+   "name": "Bayesian Statistics",
+   "faculty": "Piyush Rai"
+  },
+  {
+   "name": "Big Data"
+  },
+  {
+   "name": "Bioinformatics",
+   "faculty": "Hamim Zafar, Arnab Bhattacharya"
+  },
+  {
+   "name": "Biometrics",
+   "faculty": "Phalguni Gupta"
+  },
+  {
+   "name": "Cognitive Science",
+   "faculty": "Ajai Jain, , , Arnab Bhattacharya"
+  },
+  {
+   "name": "Compilers",
+   "faculty": "Amey Karkare, Subhajit Roy, Swarnendu Biswas,"
+  },
+  {
+   "name": "Complexity Theory"
+  },
+  {
+   "name": "Computational Algebra"
+  },
+  {
+   "name": "Computational Biology",
+   "faculty": "Hamim Zafar"
+  },
+  {
+   "name": "Computational Cognitive Science",
+   "faculty": "Nisheeth Srivastava"
+  },
+  {
+   "name": "Computational Complexity",
+   "faculty": ", Rajat Mittal"
+  },
+  {
+   "name": "Computational Complexity Theory",
+   "faculty": "Raghunath Tewari, Manindra Agrawal, Nitin Saxena"
+  },
+  {
+   "name": "Computational Geometry",
+   "faculty": "Shashank K. Mehta, Raghunath Tewari, Sanjeev Saxena"
+  },
+  {
+   "name": "Computational Social Choice",
+   "faculty": "Swaprava Nath"
+  },
+  {
+   "name": "Computational Social Science",
+   "faculty": "Nisheeth Srivastava"
+  },
+  {
+   "name": "Computer Architecture",
+   "faculty": "Biswabandan Panda, Pramod Subramanyan"
+  },
+  {
+   "name": "Computer Graphics",
+   "faculty": "Vinay P. Namboodiri"
+  },
+  {
+   "name": "Computer Hardware and Architecture",
+   "faculty": "Rajat Moona, Mainak Chaudhuri"
+  },
+  {
+   "name": "Computer Networks",
+   "faculty": "Dheeraj Sanghi, Debadatta Mishra, Ratan K Ghosh"
+  },
+  {
+   "name": "Computer Vision",
+   "faculty": "Gaurav Sharma,"
+  },
+  {
+   "name": "Computer Vision and Machine Learning",
+   "faculty": "Vinay P. Namboodiri"
+  },
+  {
+   "name": "Computible Analysis",
+   "faculty": "Satyadev Nandakumar"
+  },
+  {
+   "name": "Crowdsourcing",
+   "faculty": "Swaprava Nath"
+  },
+  {
+   "name": "Cryptology"
+  },
+  {
+   "name": "Cyber-Physical Systems"
+  },
+  {
+   "name": "Data Mining",
+   "faculty": "Arnab Bhattacharya"
+  },
+  {
+   "name": "Data Streaming",
+   "faculty": "Sumit Ganguly, Arnab Bhattacharya"
+  },
+  {
+   "name": "Data Structures",
+   "faculty": "Sanjeev Saxena"
+  },
+  {
+   "name": "Databases",
+   "faculty": "Sumit Ganguly, Arnab Bhattacharya"
+  },
+  {
+   "name": "Deep Learning",
+   "faculty": "Gaurav Sharma"
+  },
+  {
+   "name": "Design Automation",
+   "faculty": "Pramod Subramanyan"
+  },
+  {
+   "name": "Discovery",
+   "faculty": "Ajai Jain, , Arnab Bhattacharya"
+  },
+  {
+   "name": "Distributed Systems",
+   "faculty": "Sunil Simon,"
+  },
+  {
+   "name": "Dynamic Algorithms and Randomized Algorithms",
+   "faculty": "Surender Baswana"
+  },
+  {
+   "name": "Education",
+   "faculty": "Amey Karkare, T. V. Prabhakar"
+  },
+  {
+   "name": "Embedded Computing",
+   "faculty": "Sandeep Kumar Shukla, Rajat Moona"
+  },
+  {
+   "name": "Face Image Analysis",
+   "faculty": "Gaurav Sharma"
+  },
+  {
+   "name": "Fault-tolerance in VLSI",
+   "faculty": "Ajai Jain"
+  },
+  {
+   "name": "Formal Methods",
+   "faculty": "Pramod Subramanyan,"
+  },
+  {
+   "name": "FPGA firmware development"
+  },
+  {
+   "name": "Functional Programming",
+   "faculty": "Amey Karkare"
+  },
+  {
+   "name": "Game Theory",
+   "faculty": "Sunil Simon, Swaprava Nath"
+  },
+  {
+   "name": "Graph Algorithms",
+   "faculty": "Surender Baswana"
+  },
+  {
+   "name": "Graph Mining"
+  },
+  {
+   "name": "Graph Theory",
+   "faculty": "Raghunath Tewari, Shashank K. Mehta, Sanjeev Saxena, Ratan K Ghosh"
+  },
+  {
+   "name": "Heuristics",
+   "faculty": "Sanjeev Saxena"
+  },
+  {
+   "name": "High Performance Computing",
+   "faculty": "Preeti Malakar, Swarnendu Biswas"
+  },
+  {
+   "name": "High speed signal integrity analysis"
+  },
+  {
+   "name": "Human Factors in Computing",
+   "faculty": "Nisheeth Srivastava"
+  },
+  {
+   "name": "Image Processing",
+   "faculty": "Phalguni Gupta,"
+  },
+  {
+   "name": "Information Retrieval"
+  },
+  {
+   "name": "Internet and Web Technologies",
+   "faculty": "T. V. Prabhakar,"
+  },
+  {
+   "name": "IPv6",
+   "faculty": "Dheeraj Sanghi"
+  },
+  {
+   "name": "Knowledge Engineering",
+   "faculty": "T. V. Prabhakar"
+  },
+  {
+   "name": "Learning",
+   "faculty": "Ajai Jain, , Arnab Bhattacharya"
+  },
+  {
+   "name": "Legal Data Mining"
+  },
+  {
+   "name": "Logic",
+   "faculty": ", Anil Seth"
+  },
+  {
+   "name": "Machine Learning",
+   "faculty": "Piyush Rai, Hamim Zafar, Purushottam Kar, Vinay P. Namboodiri, , Gaurav Sharma"
+  },
+  {
+   "name": "Machine Translation",
+   "faculty": "Ajai Jain"
+  },
+  {
+   "name": "Mechanism Design",
+   "faculty": "Swaprava Nath"
+  },
+  {
+   "name": "Mobile Robotics"
+  },
+  {
+   "name": "Mobile/Wireless",
+   "faculty": "Ratan K Ghosh, Dheeraj Sanghi"
+  },
+  {
+   "name": "Multi Agent Systems",
+   "faculty": "Swaprava Nath"
+  },
+  {
+   "name": "Natural Language Processing",
+   "faculty": ", Ajai Jain,"
+  },
+  {
+   "name": "Number Theory"
+  },
+  {
+   "name": "Online Social Media"
+  },
+  {
+   "name": "Operating Systems",
+   "faculty": "Debadatta Mishra, Rajat Moona"
+  },
+  {
+   "name": "Optimization",
+   "faculty": "Purushottam Kar"
+  },
+  {
+   "name": "Parallel Algorithms",
+   "faculty": "Ratan K Ghosh"
+  },
+  {
+   "name": "Parallel Processing",
+   "faculty": "Sanjeev Saxena, Ajai Jain, Ratan K Ghosh"
+  },
+  {
+   "name": "Program Analysis",
+   "faculty": "Swarnendu Biswas"
+  },
+  {
+   "name": "Program Analysis & Code Optimization",
+   "faculty": "Subhajit Roy, Amey Karkare"
+  },
+  {
+   "name": "Programming Languages",
+   "faculty": "Swarnendu Biswas, Subhajit Roy, , Amey Karkare"
+  },
+  {
+   "name": "Protocols",
+   "faculty": "Dheeraj Sanghi"
+  },
+  {
+   "name": "Pseudorandomness"
+  },
+  {
+   "name": "Quantum Computing and Semidefinite Programming",
+   "faculty": "Rajat Mittal"
+  },
+  {
+   "name": "Robotics",
+   "faculty": "Indranil Saha,"
+  },
+  {
+   "name": "Scalable Parallel Communication",
+   "faculty": "Preeti Malakar"
+  },
+  {
+   "name": "Security",
+   "faculty": "Manindra Agrawal, Arnab Bhattacharya, Dheeraj Sanghi"
+  },
+  {
+   "name": "Security aspects in Computer Architecture",
+   "faculty": "Biswabandan Panda"
+  },
+  {
+   "name": "Sensor Networks",
+   "faculty": ", Arnab Bhattacharya"
+  },
+  {
+   "name": "Sequential and Parallel Algorithms",
+   "faculty": "Phalguni Gupta"
+  },
+  {
+   "name": "Signal Processing"
+  },
+  {
+   "name": "Software Architecture",
+   "faculty": "T. V. Prabhakar"
+  },
+  {
+   "name": "Software Engineering",
+   "faculty": "T. V. Prabhakar,"
+  },
+  {
+   "name": "Software systems",
+   "faculty": "Swarnendu Biswas"
+  },
+  {
+   "name": "Statistical Learning Theory",
+   "faculty": "Purushottam Kar"
+  },
+  {
+   "name": "Systems Security",
+   "faculty": "Pramod Subramanyan"
+  },
+  {
+   "name": "Telecom Regulation",
+   "faculty": "Dheeraj Sanghi"
+  },
+  {
+   "name": "Temporal Logics and Verification",
+   "faculty": "Sunil Simon"
+  },
+  {
+   "name": "Theoretical Computer Science",
+   "faculty": "Satyadev Nandakumar, Manindra Agrawal, , Raghunath Tewari, , Nitin Saxena,"
+  },
+  {
+   "name": "Virtualization and Cloud Computing",
+   "faculty": "Debadatta Mishra"
+  },
+  {
+   "name": "Vision",
+   "faculty": "Phalguni Gupta"
+  },
+  {
+   "name": "Visual Analytics",
+   "faculty": "Gaurav Sharma"
+  },
+  {
+   "name": "VLSI",
+   "faculty": "Sanjeev Saxena"
+  },
+  {
+   "name": "VLSI Design",
+   "faculty": "Rajat Moona, Ajai Jain"
+  },
+  {
+   "name": "VLSI for Cryptography"
+  },
+  {
+   "name": "VLSI for high processing systems"
+  },
+  {
+   "name": "VLSI Testing",
+   "faculty": "Rajat Moona, Ajai Jain"
+  },
+  {
+   "name": "Workflow Optimization",
+   "faculty": "Preeti Malakar"
+  }
+ ]
+}

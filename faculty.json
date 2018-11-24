@@ -1,0 +1,274 @@
+{
+ "prof_names": [
+  {
+   "name": "Ajai Jain",
+   "url": "https://www.cse.iitk.ac.in/users/ajain/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/ajain/",
+   "research_areas": "Fault-tolerance in VLSI, Parallel Processing, Machine Translation, Natural Language Processing, Discovery, Learning, Cognitive Science, VLSI Design and VLSI Testing",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/ajain/"
+  },
+  {
+   "name": "Amey Karkare",
+   "url": "https://www.cse.iitk.ac.in/users/karkare/",
+   "designation": "Associate Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/karkare/",
+   "research_areas": "Compilers, Functional Programming, Program Analysis & Code Optimization, Programming Languages and Education",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/karkare/"
+  },
+  {
+   "name": "Anil Seth",
+   "url": "https://www.cse.iitk.ac.in/users/seth/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/seth/",
+   "research_areas": "Logic",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/seth/"
+  },
+  {
+   "name": "Arnab Bhattacharya",
+   "url": "https://www.cse.iitk.ac.in/users/arnabb/",
+   "designation": "Associate Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/arnabb/",
+   "research_areas": "Databases, Data Mining, Sensor Networks, Bioinformatics, Data Streaming, Security, Discovery, Learning and Cognitive Science",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/arnabb/"
+  },
+  {
+   "name": "Biswabandan Panda",
+   "url": "https://www.cse.iitk.ac.in/users/biswap/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/biswap/",
+   "research_areas": "Computer Architecture and Security aspects in Computer Architecture",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/biswap/"
+  },
+  {
+   "name": "Debadatta Mishra",
+   "url": "https://www.cse.iitk.ac.in/users/deba/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/deba/",
+   "research_areas": "Operating Systems, Virtualization and Cloud Computing and Computer Networks",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/deba/"
+  },
+  {
+   "name": "Dheeraj Sanghi",
+   "url": "https://www.cse.iitk.ac.in/users/dheeraj/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/dheeraj/",
+   "research_areas": "Computer Networks, Protocols, IPv6, Telecom Regulation, Mobile/Wireless and Security",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/dheeraj/"
+  },
+  {
+   "name": "Hamim Zafar",
+   "url": "https://www.cse.iitk.ac.in/users/hamim/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/hamim/",
+   "research_areas": "Computational Biology, Machine Learning and Bioinformatics",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/hamim/"
+  },
+  {
+   "name": "Indranil Saha",
+   "url": "https://www.cse.iitk.ac.in/users/isaha/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/isaha/",
+   "research_areas": "+91 (512) 259/333/679-6343",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/isaha/"
+  },
+  {
+   "name": "Mainak Chaudhuri",
+   "url": "https://www.cse.iitk.ac.in/users/mainakc/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/mainakc/",
+   "research_areas": "Computer Hardware and Architecture",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/mainakc/"
+  },
+  {
+   "name": "Manindra Agrawal",
+   "url": "https://www.cse.iitk.ac.in/users/manindra/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/manindra/",
+   "research_areas": "Computational Complexity Theory, Security, Theoretical Computer Science and Algorithms",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/manindra/"
+  },
+  {
+   "name": "Nisheeth Srivastava",
+   "url": "https://www.cse.iitk.ac.in/users/nsrivast/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/nsrivast/",
+   "research_areas": "Human Factors in Computing, Computational Cognitive Science and Computational Social Science",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/nsrivast/"
+  },
+  {
+   "name": "Nitin Saxena",
+   "url": "https://www.cse.iitk.ac.in/users/nitin/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/nitin/",
+   "research_areas": "Computational Complexity Theory, Algebra, Algebraic Geometry, Theoretical Computer Science and Algorithms",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/nitin/"
+  },
+  {
+   "name": "Phalguni Gupta",
+   "url": "https://www.cse.iitk.ac.in/users/pg/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/pg/",
+   "research_areas": "[On Deputation: Director, NITTR Kolkata]",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/pg/"
+  },
+  {
+   "name": "Piyush Rai",
+   "url": "https://www.cse.iitk.ac.in/users/piyush/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/piyush/",
+   "research_areas": "+91 (512) 259/333/679-6894",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/piyush/"
+  },
+  {
+   "name": "Pramod Subramanyan",
+   "url": "https://www.cse.iitk.ac.in/users/spramod/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/spramod/",
+   "research_areas": "Formal Methods, Systems Security, Design Automation and Computer Architecture",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/spramod/"
+  },
+  {
+   "name": "Preeti Malakar",
+   "url": "https://www.cse.iitk.ac.in/users/pmalakar/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/pmalakar/",
+   "research_areas": "High Performance Computing, Scalable Parallel Communication and Workflow Optimization",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/pmalakar/"
+  },
+  {
+   "name": "Purushottam Kar",
+   "url": "https://www.cse.iitk.ac.in/users/purushot/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/purushot/",
+   "research_areas": "Optimization, Statistical Learning Theory and Machine Learning",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/purushot/"
+  },
+  {
+   "name": "Raghunath Tewari",
+   "url": "https://www.cse.iitk.ac.in/users/rtewari/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/rtewari/",
+   "research_areas": "Computational Complexity Theory, Graph Theory, Theoretical Computer Science and Computational Geometry",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/rtewari/"
+  },
+  {
+   "name": "Rajat Mittal",
+   "url": "https://www.cse.iitk.ac.in/users/rmittal/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/rmittal/",
+   "research_areas": "Computational Complexity and Quantum Computing and Semidefinite Programming",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/rmittal/"
+  },
+  {
+   "name": "Rajat Moona",
+   "url": "https://www.cse.iitk.ac.in/users/moona/",
+   "designation": "[On Deputation: Director, IIT Bhilai]",
+   "designation_url": "https://www.cse.iitk.ac.in/users/moona/"
+  },
+  {
+   "name": "Ratan K Ghosh",
+   "url": "https://www.cse.iitk.ac.in/users/rkg/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/rkg/",
+   "research_areas": "Parallel Algorithms, Parallel Processing, Mobile/Wireless, Computer Networks, Algorithms, Graph Theory",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/rkg/"
+  },
+  {
+   "name": "Sandeep Kumar Shukla",
+   "url": "https://www.cse.iitk.ac.in/users/sandeeps/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/sandeeps/",
+   "research_areas": "+91 (512) 259/333/679-6342",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/sandeeps/"
+  },
+  {
+   "name": "Sanjeev Saxena",
+   "url": "https://www.cse.iitk.ac.in/users/ssax/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/ssax/",
+   "research_areas": "Parallel Processing, VLSI, Data Structures, Algorithms, Heuristics, Graph Theory and Computational Geometry",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/ssax/"
+  },
+  {
+   "name": "Satyadev Nandakumar",
+   "url": "https://www.cse.iitk.ac.in/users/satyadev/",
+   "designation": "Associate Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/satyadev/",
+   "research_areas": "Theoretical Computer Science, Algorithmic Information Theory and Computible Analysis",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/satyadev/"
+  },
+  {
+   "name": "Shashank K. Mehta",
+   "url": "https://www.cse.iitk.ac.in/users/skmehta/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/skmehta/",
+   "research_areas": "Computational Geometry, Algorithms, Graph Theory, Approximation Algorithms",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/skmehta/"
+  },
+  {
+   "name": "Subhajit Roy",
+   "url": "https://www.cse.iitk.ac.in/users/subhajit/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/subhajit/",
+   "research_areas": "Compilers, Program Analysis & Code Optimization and Programming Languages",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/subhajit/"
+  },
+  {
+   "name": "Sumit Ganguly",
+   "url": "https://www.cse.iitk.ac.in/users/sganguly/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/sganguly/",
+   "research_areas": "Databases, Data Streaming and Algorithms",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/sganguly/"
+  },
+  {
+   "name": "Sunil Simon",
+   "url": "https://www.cse.iitk.ac.in/users/simon/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/simon/",
+   "research_areas": "Game Theory, Distributed Systems and Temporal Logics and Verification",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/simon/"
+  },
+  {
+   "name": "Surender Baswana",
+   "url": "https://www.cse.iitk.ac.in/users/sbaswana/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/sbaswana/",
+   "research_areas": "Graph Algorithms, Dynamic Algorithms and Randomized Algorithms and Algorithms",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/sbaswana/"
+  },
+  {
+   "name": "Swaprava Nath",
+   "url": "https://www.cse.iitk.ac.in/users/swaprava/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/swaprava/",
+   "research_areas": "Artificial Intelligence, Multi Agent Systems, Game Theory, Mechanism Design, Computational Social Choice and Crowdsourcing",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/swaprava/"
+  },
+  {
+   "name": "Swarnendu Biswas",
+   "url": "https://www.cse.iitk.ac.in/users/swarnendu/",
+   "designation": "Assistant Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/swarnendu/",
+   "research_areas": "Programming Languages, Compilers, Program Analysis, Software systems and High Performance Computing",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/swarnendu/"
+  },
+  {
+   "name": "T. V. Prabhakar",
+   "url": "https://www.cse.iitk.ac.in/users/tvp/",
+   "designation": "Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/tvp/",
+   "research_areas": "Software Architecture, Knowledge Engineering, Software Engineering, Internet and Web Technologies, Education",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/tvp/"
+  },
+  {
+   "name": "Vinay P. Namboodiri",
+   "url": "https://www.cse.iitk.ac.in/users/vinaypn/",
+   "designation": "Associate Professor",
+   "designation_url": "https://www.cse.iitk.ac.in/users/vinaypn/",
+   "research_areas": "Computer Vision and Machine Learning, Computer Graphics and Machine Learning",
+   "research_areas_url": "https://www.cse.iitk.ac.in/users/vinaypn/"
+  }
+ ]
+}

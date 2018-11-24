@@ -1,0 +1,65 @@
+<html>
+    
+    <head>
+
+        <title>CSE - IITK - Chatbot</title>
+
+        <link rel="stylesheet" href="test_style_sheet.css">
+        <link rel="stylesheet" href="stylesheet.css">
+        <link href="icon.png" rel="shortcut icon" type="image/x-icon" />
+
+
+    </head>
+
+    <body>
+
+        <div class="full-height">
+            <div class="parent">
+                <iframe src="https://www.cse.iitk.ac.in/" class="parent">           </iframe>
+            
+            </div>
+            <div class="child">
+                <div id="chat" class="chatlocation animated-chat tada" onclick="loadChatbox()">Chat</div>
+                    <div class="chat_position newchatbox" id="chatbox">
+                        <script>
+                            document.write('<div><iframe allow="microphone" src="https://console.dialogflow.com/api-client/demo/embedded/2b465e10-c1b9-42ce-9fbb-6d1fc27df6ee" scrolling="no" frameborder="0" style="box-shadow: 10px 10px 10px rgba(135,135, 135, 1);float:right" width="350px" height="500px" style="border:0; margin:200; padding: 0;">');
+
+                            document.write('</iframe>');
+                            
+                            //document.write('</div>');
+                            document.write('</div>');
+                        </script>
+                        <div id="close-chat" onclick="closeChatbox()">&times;</div>
+                        <div id="minim-chat" onclick="minimChatbox()">
+                            <span class="minim-button">&minus;</span>
+                        </div>
+                        <div id="maxi-chat" onclick="loadChatbox()">
+                            <span class="maxi-button">&plus;</span>
+                        </div>
+                </div>
+
+                <script>
+                    function loadChatbox()
+                    {
+                        var e=document.getElementById("minim-chat");e.style.display="block";
+                        var e=document.getElementById("maxi-chat");e.style.display="none";
+                        var e=document.getElementById("chatbox");e.style.margin="0";
+                    }
+
+                    function closeChatbox()
+                    {
+                        var e=document.getElementById("chatbox");e.style.margin="0 0 -1500px 0";
+                    }
+
+                    function minimChatbox()
+                    {
+                        var e=document.getElementById("minim-chat");e.style.display="none";
+                        var e=document.getElementById("maxi-chat");e.style.display="block";
+                        var e=document.getElementById("chatbox");e.style.margin="0 0 -490px 0";
+                    }
+                </script>
+            </div>
+        </div>
+    </body>
+
+</html>

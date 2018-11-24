@@ -1,0 +1,48 @@
+{
+ "post_docs": [
+  {
+   "name": "Ashu Sharma",
+   "url": "https://www.cse.iitk.ac.in/users/ashush/"
+  },
+  {
+   "name": "Jubin Mitra",
+   "url": "https://www.cse.iitk.ac.in/users/jubinmitra/",
+   "research_interrest": "VLSI for high processing systems, FPGA firmware development and High speed signal integrity analysis",
+   "research_interrest_url": "https://www.cse.iitk.ac.in/users/jubinmitra/",
+   "phone": "+91 (512) 259/333/679-7587",
+   "phone_url": "https://www.cse.iitk.ac.in/users/jubinmitra/"
+  },
+  {
+   "name": "Mohamed Asan Basiri M",
+   "url": "https://www.cse.iitk.ac.in/users/asan/",
+   "research_interrest": "VLSI for Cryptography and Signal Processing",
+   "research_interrest_url": "https://www.cse.iitk.ac.in/users/asan/",
+   "phone": "+91 (512) 259/333/679-6307",
+   "phone_url": "https://www.cse.iitk.ac.in/users/asan/"
+  },
+  {
+   "name": "Sankar Narayan Das",
+   "url": "https://www.cse.iitk.ac.in/users/sdas/",
+   "research_interrest": "Mobile Robotics, Cyber-Physical Systems and Formal Methods",
+   "research_interrest_url": "https://www.cse.iitk.ac.in/users/sdas/",
+   "phone": "+91 (512) 259/333/679-6338",
+   "phone_url": "https://www.cse.iitk.ac.in/users/sdas/"
+  },
+  {
+   "name": "Zeyu Guo",
+   "url": "https://www.cse.iitk.ac.in/users/zguo/",
+   "research_interrest": "Algebraic Methods in Computational Complexity and Pseudorandomness",
+   "research_interrest_url": "https://www.cse.iitk.ac.in/users/zguo/",
+   "phone": "+91 (512) 259/333/679-6872",
+   "phone_url": "https://www.cse.iitk.ac.in/users/zguo/"
+  },
+  {
+   "name": "Kripabandhu Ghosh",
+   "url": "https://www.cse.iitk.ac.in/users/kripa/",
+   "research_interrest": "Information Retrieval, Natural Language Processing, Legal Data Mining and Online Social Media",
+   "research_interrest_url": "https://www.cse.iitk.ac.in/users/kripa/",
+   "phone": "+91 (512) 259/333/679-6338",
+   "phone_url": "https://www.cse.iitk.ac.in/users/kripa/"
+  }
+ ]
+}
